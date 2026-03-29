@@ -1,8 +1,5 @@
 this is the test file 
 hari branch added
 im the main branch and i have some privellige permission than you something type pannitaaen okay aa ! 
-<<<<<<< HEAD
 un ninaivin thalvaarathil 
-=======
 this is me gokul
->>>>>>> main
